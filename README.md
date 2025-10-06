@@ -1,11 +1,11 @@
-# 🌿 Bentolio
+# 🤖 AI Character Chat Bot
 
-A minimal and elegant **personal portfolio** built with **Next.js**, **Tailwind CSS**, and **Next Themes**.  
-Features a modern **Bento grid layout** for showcasing your work beautifully in both light and dark modes.
+A fun and interactive chatbot built with **Next.js 15**, **Tailwind CSS**, and **Google Gemini API**.  
+You can chat with multiple AI personalities such as **Pirate**, **Ninja**, **Wizard**, **Robot**, and more — each responding with a unique tone and style!  
 
 ---
 
-## 🧩 Tech Stack
+## 🧱 Tech Stack
 
 - **Framework & BackEnd:** [Next.js](https://nextjs.org/) (App Router)
 - **Language:** [TypeScript](https://www.typescriptlang.org/)
