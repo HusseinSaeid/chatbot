@@ -10,7 +10,7 @@ You can chat with multiple AI personalities such as **Pirate**, **Ninja**, **Wiz
 - **Framework & BackEnd:** [Next.js](https://nextjs.org/) (App Router)
 - **Language:** [TypeScript](https://www.typescriptlang.org/)
 - **Styling:** [Tailwind CSS](https://tailwindcss.com/)
-- **AI Engine:** [Google Gemini API]([https://vercel.com/](https://ai.google.dev/gemini-api/docs))
+- **AI Engine:** [Google Gemini API](https://ai.google.dev/gemini-api/docs)
 - **Deployment:** [Vercel](https://vercel.com/)
 
 ---
