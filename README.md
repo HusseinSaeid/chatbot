@@ -60,4 +60,4 @@ Then open http://localhost:3000
 ## 🧾 License
 This project is open-source under the MIT License
 
-## 💚 Built by Hussein Saeid
+##  Built by Hussein Saeid
