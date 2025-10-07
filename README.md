@@ -1,7 +1,5 @@
 #  AI Character Chat Bot
 
- # Project Overview
-
 This project features a chatbot built with Next.js 15, Tailwind CSS, and the Google Gemini API. 
 It offers users the ability to converse with various AI personalities,including 
 a Pirate, Ninja, Wizard, and Robot, each responding with a unique tone and style.
