@@ -30,9 +30,9 @@ a Pirate, Ninja, Wizard, and Robot, each responding with a unique tone and style
 
 # Potential Use Cases
 
-**Entertainment**: Provides users with a fun and engaging way to interact with AI personalities.
-**Education**: Can be adapted for educational purposes, offering interactive learning experiences.
-**Customer Support**: With further development, could serve as a basis for AI-driven customer service bots.
+- **Entertainment**: Provides users with a fun and engaging way to interact with AI personalities.
+- **Education**: Can be adapted for educational purposes, offering interactive learning experiences.
+- **Customer Support**: With further development, could serve as a basis for AI-driven customer service bots.
 
 ## 📦 Installation
 
