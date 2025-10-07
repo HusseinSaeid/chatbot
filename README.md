@@ -33,7 +33,17 @@ a Pirate, Ninja, Wizard, and Robot, each responding with a unique tone and style
 - **Entertainment**: Provides users with a fun and engaging way to interact with AI personalities.
 - **Education**: Can be adapted for educational purposes, offering interactive learning experiences.
 - **Customer Support**: With further development, could serve as a basis for AI-driven customer service bots.
+  
+---
+## Key Takeaways
 
+- Demonstrated AI API integration with a secure internal backend
+- Implemented context-aware conversation memory for coherent AI replies
+- Built a dynamic, responsive UI using Tailwind CSS
+- Enforced distinct character personalities using system prompts in the backend
+- Created a full-stack solution using Next.js with internal API routes for security
+- Gained experience with real-time AI communication and API error handling
+---
 ## 📦 Installation
 
 ```bash
